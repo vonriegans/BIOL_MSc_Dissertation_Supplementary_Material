@@ -1,0 +1,82 @@
+﻿Item,Operation OPCS codes,Description
+K2.1,"O180, O182",Conversion from previous hybrid prosthetic replacement of knee joint using cement | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.2,"O180, W402",Conversion from previous hybrid prosthetic replacement of knee joint using cement | Conversion to total prosthetic replacement of knee joint using cement
+K2.3,"O180, W412",Conversion from previous hybrid prosthetic replacement of knee joint using cement | Conversion to total prosthetic replacement of knee joint not using cement
+K2.4,"O180, W422",Conversion from previous hybrid prosthetic replacement of knee joint using cement | Conversion to total prosthetic replacement of knee joint NEC
+K2.5,O183,Revision of hybrid prosthetic replacement of knee joint using cement
+K2.6,O185,Revision of cemented component of hybrid prosthetic replacement of knee joint
+K2.7,O186,Revision of uncemented component of hybrid prosthetic replacement of knee joint
+K2.8,"W400, O182",Conversion from previous cemented total prosthetic replacement of knee joint | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.9,"W400, W402",Conversion from previous cemented total prosthetic replacement of knee joint | Conversion to total prosthetic replacement of knee joint using cement
+K2.10,"W400, W412",Conversion from previous cemented total prosthetic replacement of knee joint | Conversion to total prosthetic replacement of knee joint not using cement
+K2.11,"W400, W422",Conversion from previous cemented total prosthetic replacement of knee joint | Conversion to total prosthetic replacement of knee joint NEC
+K2.12,W403,Revision of total prosthetic replacement of knee joint using cement
+K2.13,W404,Revision of one component of total prosthetic replacement of knee joint using cement
+K2.14,"W410, O182",Conversion from previous uncemented total prosthetic replacement of knee joint | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.15,"W410, W402",Conversion from previous uncemented total prosthetic replacement of knee joint | Conversion to total prosthetic replacement of knee joint using cement
+K2.16,"W410, W412",Conversion from previous uncemented total prosthetic replacement of knee joint | Conversion to total prosthetic replacement of knee joint not using cement
+K2.17,"W410, W422",Conversion from previous uncemented total prosthetic replacement of knee joint | Conversion to total prosthetic replacement of knee joint NEC
+K2.18,W413,Revision of total prosthetic replacement of knee joint not using cement
+K2.19,W414,Revision of one component of total prosthetic replacement of knee joint not using cement
+K2.20,"W420, O182",Conversion from previous total prosthetic replacement of knee joint NEC | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.21,"W420, W402",Conversion from previous total prosthetic replacement of knee joint NEC | Conversion to total prosthetic replacement of knee joint using cement
+K2.22,"W420, W412",Conversion from previous total prosthetic replacement of knee joint NEC | Conversion to total prosthetic replacement of knee joint not using cement
+K2.23,"W420, W422",Conversion from previous total prosthetic replacement of knee joint NEC | Conversion to total prosthetic replacement of knee joint NEC
+K2.24,W423,Revision of total prosthetic replacement of knee joint NEC
+K2.25,"W424, Y021",Attention to total prosthetic replacement of knee joint NEC | Implantation of prosthesis into organ NOC
+K2.26,"W424, Y022",Attention to total prosthetic replacement of knee joint NEC | Insertion of prosthesis into organ NOC
+K2.27,"W424, Y032",Attention to total prosthetic replacement of knee joint NEC | Renewal of prosthesis in organ NOC
+K2.28,W425,Revision of one component of total prosthetic replacement of knee joint NEC
+K2.29,"W431, Z787",Primary total prosthetic replacement of joint using cement NEC | Patella
+K2.30,"W433, Z787",Revision of total prosthetic replacement of joint using cement NEC| Patella
+K2.31,"W433, Z844",Revision of total prosthetic replacement of joint using cement NEC| Patellofemoral joint
+K2.32,"W433, Z845",Revision of total prosthetic replacement of joint using cement NEC| Tibiofemoral joint
+K2.33,"W433, Z846",Revision of total prosthetic replacement of joint using cement NEC| Knee joint
+K2.34,"W434, Z787",Revision of one component of total prosthetic replacement of joint using cement NEC | Patella
+K2.35,"W434, Z844",Revision of one component of total prosthetic replacement of joint using cement NEC | Patellofemoral joint
+K2.36,"W434, Z845",Revision of one component of total prosthetic replacement of joint using cement NEC | Tibiofemoral joint
+K2.37,"W434, Z846",Revision of one component of total prosthetic replacement of joint using cement NEC | Knee joint
+K2.38,"W441, Z787",Primary total prosthetic replacement of joint not using cement NEC | Patella
+K2.39,"W443, Z787",Revision of total prosthetic replacement of joint not using cement NEC | Patella
+K2.40,"W443, Z844",Revision of total prosthetic replacement of joint not using cement NEC | Patellofemoral joint
+K2.41,"W443, Z845",Revision of total prosthetic replacement of joint not using cement NEC | Tibiofemoral joint
+K2.42,"W443, Z846",Revision of total prosthetic replacement of joint not using cement NEC | Knee joint
+K2.43,"W444, Z787",Revision of one component of total prosthetic replacement of joint not using cement NEC | Patella
+K2.44,"W444, Z844",Revision of one component of total prosthetic replacement of joint not using cement NEC | Patellofemoral joint
+K2.45,"W444, Z845",Revision of one component of total prosthetic replacement of joint not using cement NEC | Tibiofemoral joint
+K2.46,"W444, Z846",Revision of one component of total prosthetic replacement of joint not using cement NEC | Knee joint
+K2.47,"W451, Z787",Primary total prosthetic replacement of joint NEC | Patella
+K2.48,"W455, Z787",Revision of one component of total prosthetic replacement of joint NEC | Patella
+K2.49,"W455, Z844",Revision of one component of total prosthetic replacement of joint NEC | Patellofemoral joint
+K2.50,"W455, Z845",Revision of one component of total prosthetic replacement of joint NEC | Tibiofemoral joint
+K2.51,"W455, Z846",Revision of one component of total prosthetic replacement of joint NEC | Knee joint
+K2.52,"W520, O182",Conversion from previous cemented prosthetic replacement of articulation of bone NEC | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.53,"W520, W402",Conversion from previous cemented prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint using cement
+K2.54,"W520, W412",Conversion from previous cemented prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint not using cement
+K2.55,"W520, W422",Conversion from previous cemented prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint NEC
+K2.56,"W521, Z787",Primary prosthetic replacement of articulation of bone using cement NEC | Patella
+K2.57,"W523, Z787",Revision of prosthetic replacement of articulation of bone using cement NEC | Patella
+K2.58,"W523, Z846",Revision of prosthetic replacement of articulation of bone using cement NEC | Knee joint
+K2.59,"W530, O182",Conversion from previous uncemented prosthetic replacement of articulation of bone NEC | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.60,"W530, W402",Conversion from previous uncemented prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint using cement
+K2.61,"W530, W412",Conversion from previous uncemented prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint not using cement
+K2.62,"W530, W422",Conversion from previous uncemented prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint NEC
+K2.63,"W533, Z787",Revision of prosthetic replacement of articulation of bone not using cement NEC| Patella
+K2.64,"W533, Z846",Revision of prosthetic replacement of articulation of bone not using cement NEC| Knee joint
+K2.65,"W540, O182",Conversion from previous prosthetic replacement of articulation of bone NEC | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.66,"W540, W402",Conversion from previous prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint using cement
+K2.67,"W540, W412",Conversion from previous prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint not using cement
+K2.68,"W540, W422",Conversion from previous prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint NEC
+K2.69,"W543, O182",Revision of prosthetic replacement of articulation of bone NEC | Conversion to hybrid prosthetic replacement of knee joint using cement
+K2.70,"W543, W402",Revision of prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint using cement
+K2.71,"W543, W412",Revision of prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint not using cement
+K2.72,"W543, W422",Revision of prosthetic replacement of articulation of bone NEC | Conversion to total prosthetic replacement of knee joint NEC
+K2.73,"W543, Z846",Revision of prosthetic replacement of articulation of bone NEC | Knee joint
+K2.74,"W570, W402",Conversion from previous excision arthroplasty of joint | Conversion to total prosthetic replacement of knee joint using cement
+K2.75,"W580, W402",Conversion from previous resurfacing arthroplasty of joint | Conversion to total prosthetic replacement of knee joint using cement
+K2.76,"W580, W412",Conversion from previous resurfacing arthroplasty of joint | Conversion to total prosthetic replacement of knee joint not using cement
+K2.77,"W580, W422",Conversion from previous resurfacing arthroplasty of joint | Conversion to prosthetic replacement of articulation of bone using cement NEC
+K2.78,"W582, Z787",Revision of resurfacing arthroplasty of joint | Patella
+K2.79,"W582, Z844",Revision of resurfacing arthroplasty of joint | Patellofemoral joint
+K2.80,"W582, Z846",Revision of resurfacing arthroplasty of joint | Knee joint
+K2.81,"W801, Z846",Open debridement and irrigation of joint | Knee Joint

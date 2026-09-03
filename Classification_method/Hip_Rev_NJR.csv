@@ -1,0 +1,73 @@
+Item,Operation OPCS codes,Description
+H2.1,"W370, W372",Conversion from previous cemented total prosthetic replacement of hip joint |Conversion to total prosthetic replacement of hip joint using cement
+H2.2,"W370, W382",Conversion from previous cemented total prosthetic replacement of hip joint |Conversion to total prosthetic replacement of hip joint not using cement
+H2.3,"W370, W392",Conversion from previous cemented total prosthetic replacement of hip joint | Conversion to total prosthetic replacement of hip joint NEC
+H2.4,"W370, W932",Conversion from previous cemented total prosthetic replacement of hip joint |Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.5,"W370, W942",Conversion from previous cemented total prosthetic replacement of hip joint |Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.6,"W370, W952",Conversion from previous cemented total prosthetic replacement of hip joint |Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+H2.7,W373,Revision of total prosthetic replacement of hip joint using cement 
+H2.8,W374,Revision of one component of total prosthetic replacement of hip joint using cement
+H2.9,"W380, W372",Conversion from previous uncemented total prosthetic replacement of hip joint |Conversion to total prosthetic replacement of hip joint using cement
+H2.10,"W380, W382",Conversion from previous uncemented total prosthetic replacement of hip joint |Conversion to total prosthetic replacement of hip joint not using cement
+H2.11,"W380, W392",Conversion from previous uncemented total prosthetic replacement of hip joint |Conversion to total prosthetic replacement of hip joint NEC
+H2.12,"W380, W932",Conversion from previous uncemented total prosthetic replacement of hip joint |Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.13,"W380, W942",Conversion from previous uncemented total prosthetic replacement of hip joint | Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.14,"W380, W952",Conversion from previous uncemented total prosthetic replacement of hip joint | Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+H2.15,W383,Revision of total prosthetic replacement of hip joint not using cement
+H2.16,W384,Revision of one component of total prosthetic replacement of hip joint not using cement
+H2.17,"W390, W372",Conversion from previous total prosthetic replacement of hip joint NEC |Conversion to total prosthetic replacement of hip joint using cement
+H2.18,"W390, W382",Conversion from previous total prosthetic replacement of hip joint NEC |Conversion to total prosthetic replacement of hip joint not using cement
+H2.19,"W390, W392",Conversion from previous total prosthetic replacement of hip joint NEC |Conversion to total prosthetic replacement of hip joint NEC
+H2.20,"W390, W932",Conversion from previous total prosthetic replacement of hip joint NEC | Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.21,"W390, W942",Conversion from previous total prosthetic replacement of hip joint NEC | Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.22,"W390, W952",Conversion from previous total prosthetic replacement of hip joint NEC | Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+H2.23,W393,Revision of total prosthetic replacement of hip joint NEC
+H2.24,"W394, Y032",Attention to total prosthetic replacement of hip joint NEC | Renewal of prosthesis in organ NOC
+H2.25,"W394, Y036",Attention to total prosthetic replacement of hip joint NEC | Adjustment to prosthesis in organ NOC
+H2.26,W395,Revision of one component of total prosthetic replacement of hip joint NEC
+H2.27,"W460, W372",Conversion from previous cemented prosthetic replacement of head of femur |Conversion to total prosthetic replacement of hip joint using cement
+H2.28,"W460, W382",Conversion from previous cemented prosthetic replacement of head of femur | Conversion to total prosthetic replacement of hip joint not using cement
+H2.29,"W460, W392",Conversion from previous cemented prosthetic replacement of head of femur |Conversion to total prosthetic replacement of hip joint NEC
+H2.30,W463,Revision of prosthetic replacement of head of femur using cement
+H2.31,"W470, W372",Conversion from previous uncemented prosthetic replacement of head of femur | Conversion to total prosthetic replacement of hip joint using cement
+H2.32,"W470, W382",Conversion from previous uncemented prosthetic replacement of head of femur| Conversion to total prosthetic replacement of hip joint not using cement
+H2.33,"W470, W392",Conversion from previous uncemented prosthetic replacement of head of femur | Conversion to total prosthetic replacement of hip joint NEC
+H2.34,W473,Revision of prosthetic replacement of head of femur not using cement
+H2.35,"W480, W372",Conversion from previous prosthetic replacement of head of femur not elsewhere| Conversion to total prosthetic replacement of hip joint using cement
+H2.36,"W480, W382",Conversion from previous prosthetic replacement of head of femur not elsewhere| Conversion to total prosthetic replacement of hip joint not using cement
+H2.37,"W480, W392",Conversion from previous prosthetic replacement of head of femur not elsewhere| Conversion to total prosthetic replacement of hip joint NEC
+H2.38,W483,Revision of prosthetic replacement of head of femur not elsewhere classified
+H2.39,"W580, W372",Conversion from previous resurfacing arthroplasty of joint | Conversion to total prosthetic replacement of hip joint using cement
+H2.40,"W580, W382",Conversion from previous resurfacing arthroplasty of joint | Conversion to total prosthetic replacement of hip joint not using cement
+H2.41,"W580, W392",Conversion from previous resurfacing arthroplasty of joint | Conversion to total prosthetic replacement of hip joint NEC
+H2.42,"W580, W932",Conversion from previous resurfacing arthroplasty of joint | Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.43,"W580, W942",Conversion from previous resurfacing arthroplasty of joint | Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.44,"W580, W952",Conversion from previous resurfacing arthroplasty of joint | Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+H2.45,"W582, Z843",Revision of resurfacing arthroplasty of joint | Hip joint
+H2.46,"W582, Z902",Revision of resurfacing arthroplasty of joint | Hip NEC
+H2.47,"W801,Z843",Open debridement and irrigation of joint | Hip joint
+H2.48,"W930, W372",Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component | Conversion to total prosthetic replacement of hip joint using cement
+H2.49,"W930, W382",Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component | Conversion to total prosthetic replacement of hip joint not using cement
+H2.50,"W930, W392",Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component | Conversion to total prosthetic replacement of hip joint NEC
+H2.51,"W930, W932",Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component | Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.52,"W930, W942",Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component | Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.53,"W930, W952",Conversion from previous hybrid prosthetic replacement of hip joint using cemented acetabular component | Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+H2.54,W933,Revision of hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.55,W934,Revision of one component of hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.56,"W940, W372",Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component | Conversion to total prosthetic replacement of hip joint using cement
+H2.57,"W940, W382",Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component | Conversion to total prosthetic replacement of hip joint not using cement
+H2.58,"W940, W392",Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component | Conversion to total prosthetic replacement of hip joint NEC
+H2.59,"W940, W932",Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component | Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.60,"W940, W942",Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component | Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.61,"W940, W952",Conversion from previous hybrid prosthetic replacement of hip joint using cemented femoral component | Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+H2.62,W943,Revision of hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.63,W944,Revision of one component of hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.64,"W950, W372",Conversion from previous hybrid prosthetic replacement of hip joint using cement NEC |Conversion to total prosthetic replacement of hip joint using cement
+H2.65,"W950, W382",Conversion from previous hybrid prosthetic replacement of hip joint using cement NEC |Conversion to total prosthetic replacement of hip joint not using cement
+H2.66,"W950, W392",Conversion from previous hybrid prosthetic replacement of hip joint using cement NEC |Conversion to total prosthetic replacement of hip joint NEC
+H2.67,"W950, W932",Conversion from previous hybrid prosthetic replacement of hip joint using cement NEC |Conversion to hybrid prosthetic replacement of hip joint using cemented acetabular component
+H2.68,"W950, W942",Conversion from previous hybrid prosthetic replacement of hip joint using cement NEC |Conversion to hybrid prosthetic replacement of hip joint using cemented femoral component
+H2.69,"W950, W952",Conversion from previous hybrid prosthetic replacement of hip joint using cement NEC |Conversion to hybrid prosthetic replacement of hip joint using cement NEC
+H2.70,W953,Revision of hybrid prosthetic replacement of hip joint using cement NEC
+H2.71,"W954, Y032",Attention to hybrid prosthetic replacement of hip joint using cement NEC | Renewal of prosthesis in organ NOC
+H2.72,W955,Revision of one component of hybrid prosthetic replacement of hip joint using cement NEC
