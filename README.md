@@ -5,4 +5,4 @@ This repository contains:
 2. The full results of the ICD-10 diagnostic code distribution available in the full clinically verified POPPKF patients,
 3. The full results of the available OPCS-4 procedure code distribution available for the same cohort.
 
-Disclaimer: The HES data that is needed for the classification method to work is de-identified and under audit approval of hospitals for use for this project. Additionally, this repository is on a "private" setting, ensuring that no data or analysis is publicly available unless given the rights to view this repository.
+Disclaimer: The HES data that is needed for the classification method to work is de-identified and under audit approval of hospitals for use for this project. If required, the data provided in this repository will be removed after examiners at the University of Bristol have examined these supplementary materials as required.
